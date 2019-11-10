@@ -19,3 +19,10 @@
 //   }
 // }
 
+class BoardMember {
+  
+  
+  function veto() {
+    return ""
+  }
+}
