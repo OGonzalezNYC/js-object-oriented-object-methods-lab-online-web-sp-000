@@ -22,7 +22,11 @@
 class BoardMember {
   
   
-  function veto() {
+  veto() {
+    return "No, I must disagree"
+  }
+  
+  approve() {
     return ""
   }
 }
